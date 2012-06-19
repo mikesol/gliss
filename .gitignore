@@ -26,6 +26,11 @@
 *.sql
 *.sqlite
 
+# Documents #
+######################
+*.pdf
+*.dvi
+
 # OS generated files #
 ######################
 .DS_Store
